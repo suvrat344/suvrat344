@@ -6,7 +6,7 @@ I'm currently enrolled in the IIT Madras, where I am majoring in Data Science an
 #### 💻 Technical Proficiency
 While completing my degree, I've gained proficiency in key data analysis tools and languages, including:
 
-Languages: Python, SQL, C, Java <br>
+Languages: Python, SQL, C, C++,Java <br>
 Tools: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Streamlit, Scikit Learn, Tableau, Power BI, Excel, QGIS <br>
 Skills: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Business Analytics, Machine Learning
 
